@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pixabay_api_gallery/static/css/main.e94b1f7f.chunk.css",
-    "main.js": "/pixabay_api_gallery/static/js/main.0c86af4b.chunk.js",
-    "main.js.map": "/pixabay_api_gallery/static/js/main.0c86af4b.chunk.js.map",
+    "main.js": "/pixabay_api_gallery/static/js/main.627aa2f0.chunk.js",
+    "main.js.map": "/pixabay_api_gallery/static/js/main.627aa2f0.chunk.js.map",
     "runtime-main.js": "/pixabay_api_gallery/static/js/runtime-main.11999009.js",
     "runtime-main.js.map": "/pixabay_api_gallery/static/js/runtime-main.11999009.js.map",
     "static/js/2.0b1c6d1f.chunk.js": "/pixabay_api_gallery/static/js/2.0b1c6d1f.chunk.js",
     "static/js/2.0b1c6d1f.chunk.js.map": "/pixabay_api_gallery/static/js/2.0b1c6d1f.chunk.js.map",
     "index.html": "/pixabay_api_gallery/index.html",
-    "precache-manifest.7ae6681ff9fbdfe72bc321ef28a1c479.js": "/pixabay_api_gallery/precache-manifest.7ae6681ff9fbdfe72bc321ef28a1c479.js",
+    "precache-manifest.51a86d5eaaf40f98dc232bce43afc304.js": "/pixabay_api_gallery/precache-manifest.51a86d5eaaf40f98dc232bce43afc304.js",
     "service-worker.js": "/pixabay_api_gallery/service-worker.js",
     "static/css/main.e94b1f7f.chunk.css.map": "/pixabay_api_gallery/static/css/main.e94b1f7f.chunk.css.map",
     "static/js/2.0b1c6d1f.chunk.js.LICENSE.txt": "/pixabay_api_gallery/static/js/2.0b1c6d1f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.11999009.js",
     "static/js/2.0b1c6d1f.chunk.js",
     "static/css/main.e94b1f7f.chunk.css",
-    "static/js/main.0c86af4b.chunk.js"
+    "static/js/main.627aa2f0.chunk.js"
   ]
 }
